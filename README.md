@@ -1,4 +1,4 @@
-# PLANETS:TEOS v1.x Patcher
+# PLANETS:TEOS v1.0 Patcher
 
 This repository contains tools for patching the PLANCFG.EXE file in Planets:TEOS v1.* BBS door game from the 1990s.
 
